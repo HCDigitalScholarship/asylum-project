@@ -139,6 +139,7 @@ INSTALLED_APPS = (
     'filer',
     'easy_thumbnails',
     'djangocms_column',
+    'djangocms_forms',
     'djangocms_link',
     'cmsplugin_filer_file',
     'cmsplugin_filer_folder',
