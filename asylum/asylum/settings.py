@@ -149,7 +149,7 @@ INSTALLED_APPS = (
     'djangocms_snippet',
     'djangocms_googlemap',
     'djangocms_video',
-    'asylum'
+    'asylum',
 )
 
 LANGUAGES = (
